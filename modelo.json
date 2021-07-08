@@ -27,7 +27,7 @@
              [
                  {
                     "type": "docker-tag",
-                    "repository" "utahpacker",
+                    "repository": "utahpacker",
                     "tag": "{{user tag }}"
                  }
              ]
