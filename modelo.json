@@ -7,7 +7,7 @@
              {
                     "author": "Rodrigo Souza",
                     "type": "docker",
-                    "image": debian:buster",
+                    "image": "debian:buster",
                     "commit": "true",
                     "changes": [
                              "ENTRYPOINT [\"\"]",
